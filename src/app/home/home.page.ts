@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
+import { Component, ElementRef, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import { CPULoadEvents, CPULoadState, CPUMonitoring } from 'capacitor-cpu-monitoring';
 import { PluginListenerHandle } from '@capacitor/core';
 
